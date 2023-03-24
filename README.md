@@ -1,6 +1,6 @@
 # orientation_builder
 
-A new Flutter project.
+Responsive design via orientation builder, Tutorial: https://medium.com/flutter-community/developing-for-multiple-screen-sizes-and-orientations-in-flutter-fragments-in-flutter-a4c51b849434, as a part of class task by 19k1095,19k1056,19k1069.
 
 ## Getting Started
 
